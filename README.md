@@ -28,3 +28,7 @@ C:\Program Files\Common Files\VST3
 ```
 
 This repository contains binary releases only.
+
+Distributed plugin binaries are provided under a proprietary license. They may
+be used for personal or commercial music production. Redistribution and resale
+are not permitted.
